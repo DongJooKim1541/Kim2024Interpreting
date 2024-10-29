@@ -1,6 +1,8 @@
 # Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach - Official Pytorch Implementation
 - This article was accepted into the [Scientific Reports](https://www.nature.com/srep/) journal on October 17, 2024.
 - This article was published on October 28, 2024.
+- https://doi.org/10.1038/s41598-024-76864-2
+- ISSN 2045-2322 (online)
 
 ## Experiment Settings
 - CIFAR10, CIFAR100 (saved in `./DATA`)
@@ -41,10 +43,9 @@ If you use this code in your research, or find our work helpful for your works, 
   title = {Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach},
   author = {Kim, Dongjoo and Lee, Minsik},
   journal={Scientific Reports},
-  volume={},
-  number={},
-  pages={},
+  volume={14},
+  number={25774},
   year = {2024},
-  month={},
+  month={October},
 }
 ```
