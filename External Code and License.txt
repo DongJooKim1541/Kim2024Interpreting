@@ -1,0 +1,7 @@
+### External Code and License
+Our project contains modified parts of [PT4AL: Using Self-Supervised Pretext Tasks for Active Learning](https://github.com/johnsk95/PT4AL).
+
+
+- The [PT4AL: Using Self-Supervised Pretext Tasks for Active Learning](https://github.com/johnsk95/PT4AL) 
+is under the MIT license. 
+
