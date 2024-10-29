@@ -1,4 +1,4 @@
-# Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach - Official Pytorch Implementation
+# Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach
 - https://doi.org/10.1038/s41598-024-76864-2
 - ISSN 2045-2322 (online)
 
