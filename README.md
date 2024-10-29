@@ -1,6 +1,4 @@
 # Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach - Official Pytorch Implementation
-- This article was accepted into the [Scientific Reports](https://www.nature.com/srep/) journal on October 17, 2024.
-- This article was published on October 28, 2024.
 - https://doi.org/10.1038/s41598-024-76864-2
 - ISSN 2045-2322 (online)
 
