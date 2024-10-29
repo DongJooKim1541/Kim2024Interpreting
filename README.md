@@ -42,7 +42,7 @@ If you use this code in your research, or find our work helpful for your works, 
   author = {Kim, Dongjoo and Lee, Minsik},
   journal={Scientific Reports},
   volume={14},
-  number={25774},
+  pages={25774},
   year = {2024},
   month={October},
 }
