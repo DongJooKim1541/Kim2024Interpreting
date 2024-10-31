@@ -39,12 +39,13 @@ main.py
 If you use this code in your research, or find our work helpful for your works, please citing us with the bibtex below
 ```
 @article{kim2024interpreting,
-  title = {Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach},
-  author = {Kim, Dongjoo and Lee, Minsik},
+  title={Interpreting pretext tasks for active learning: a reinforcement learning approach},
+  author={Kim, Dongjoo and Lee, Minsik},
   journal={Scientific Reports},
   volume={14},
+  number={1},
   pages={25774},
-  year = {2024},
-  month={October},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
 }
 ```
