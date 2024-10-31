@@ -7,7 +7,7 @@
 - CIFAR10, CIFAR100 (saved in `./DATA`)
 - [SVHN](http://ufldl.stanford.edu/housenumbers/), [Caltech101](https://data.caltech.edu/records/mzrjq-6wc02), [ImageNet-64](https://www.image-net.org/download.php) is available on their respective links
 - Pretext task: Rotation prediction task
-- Please create `./checkpoint` and `./loss` dirs in this project
+- Please create `./checkpoint` and `./loss` folders in this project
 
 ## Prerequisites
 ```
